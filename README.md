@@ -104,7 +104,8 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-<img width="677" height="101" alt="image" src="https://github.com/user-attachments/assets/0070a984-9dcc-4e55-a00c-30b3c6732132" />
+![Uploading image.png…]()
+
 
 
 
@@ -115,7 +116,8 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-<img width="677" height="101" alt="image" src="https://github.com/user-attachments/assets/0070a984-9dcc-4e55-a00c-30b3c6732132" />
+
+<img width="1015" height="497" alt="image" src="https://github.com/user-attachments/assets/401e776c-4366-4d73-903b-5446ebfa27f0" />
 
 
 
@@ -129,7 +131,8 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-<img width="677" height="101" alt="image" src="https://github.com/user-attachments/assets/0070a984-9dcc-4e55-a00c-30b3c6732132" />
+<img width="1092" height="231" alt="image" src="https://github.com/user-attachments/assets/99960215-51c3-48d6-9056-d299c90ca098" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -141,7 +144,8 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-<img width="677" height="101" alt="image" src="https://github.com/user-attachments/assets/0070a984-9dcc-4e55-a00c-30b3c6732132" />
+<img width="1131" height="740" alt="image" src="https://github.com/user-attachments/assets/dadbe040-cdbe-41f9-9d18-c204a4cf0eb2" />
+
 
 
 # RESULT:
